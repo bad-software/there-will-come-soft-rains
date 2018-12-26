@@ -1,0 +1,38 @@
+@import '../../../../../../../stylesheets/theme';
+
+
+.body {
+  display: flex;
+  flex-flow: row nowrap;
+  font-size: 1.5rem;
+  justify-content: space-around;
+}
+
+.icon {
+  $size: 1.675rem;
+  height: $size;
+  width: $size;
+
+  &__economy {
+    color: theme( stat, economy );
+  }
+
+  &__industry {
+    fill: theme( stat, industry );
+  }
+
+  &__progress {
+    fill: theme( stat, progress );
+  }
+
+  &__stability {
+    fill: theme( stat, stability );
+  }
+}
+
+
+.stat {
+  align-items: center;
+  display: flex;
+  flex-flow: row nowrap;
+}

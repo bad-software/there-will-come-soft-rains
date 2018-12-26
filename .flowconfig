@@ -1,0 +1,68 @@
+[ignore]
+.*/node_modules/bcryptjs/.*
+*.scss
+
+[include]
+
+[libs]
+flow-typed
+
+[lints]
+
+;suppress inspection for section "DuplicateKeyInSection"
+[options]
+;; Experimental features
+esproposal.optional_chaining=enable
+esproposal.export_star_as=enable
+esproposal.nullish_coalescing=enable
+
+;; Allowed extensions
+module.file_ext=.css
+module.file_ext=.js
+module.file_ext=.jsx
+module.file_ext=.json
+module.file_ext=.mjs
+module.file_ext=.less
+module.file_ext=.scss
+
+;; Ignore rules
+module.ignore_non_literal_requires=true
+
+;; Aliases (Keep in sync with .babelrc and webpack)
+; Client (Feathers)
+module.name_mapper='^Client$' -> '<PROJECT_ROOT>/client/client.js'
+; Components
+module.name_mapper='^Components\(/+.*\)$' -> '<PROJECT_ROOT>/client/components\1'
+module.name_mapper='^Data\(/+.*\)$' -> '<PROJECT_ROOT>/client/data\1'
+; Flow definitions
+module.name_mapper='^Flow$' -> '<PROJECT_ROOT>/flow/'
+; Lib
+module.name_mapper='^Lib\(/+.*\)$' -> '<PROJECT_ROOT>/client/lib\1'
+; Model prototype
+module.name_mapper='^Models$' -> '<PROJECT_ROOT>/client/models/'
+; Models
+module.name_mapper='^Models/\(.*\)$' -> '<PROJECT_ROOT>/client/models/\1'
+; Styles
+module.name_mapper='^Styles\(/+.*\)$' -> '<PROJECT_ROOT>/client/stylesheets\1'
+; Theme
+module.name_mapper='^Theme$' -> '<PROJECT_ROOT>/client/stylesheets/themeExport.scss'
+; Router
+module.name_mapper='^Router\(/+.*\)$' -> '<PROJECT_ROOT>/client/router\1'
+
+;; CSS Modules
+module.name_mapper.extension='scss' -> 'CSSModule'
+
+;; Enforce strict mode for all modules
+module.use_strict=true
+
+
+;; Suppress types
+;; These contextually-relevant types are aliases for `any`.
+suppress_type=$CustomError
+
+[strict]
+nonstrict-import
+unclear-type
+;unsafe-getters-setters
+untyped-import
+untyped-type-import

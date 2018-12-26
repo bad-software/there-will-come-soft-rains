@@ -1,0 +1,64 @@
+@import '../../stylesheets/theme';
+@import '../../stylesheets/utility/mixins';
+
+$bottom-offset: -3rem;
+
+.body {
+  // 16:9 Landscape
+  $aspect-ratio: 9 / 16;
+  $border-size: 12px;
+  $width: $game-width;
+
+  background: theme( background );
+  border: solid black $border-size;
+  border-radius: 2px;
+  color: theme( text );
+  display: flex;
+  //flex: 1;
+  flex-flow: column nowrap;
+
+  height: $aspect-ratio * $width;
+  min-height: $aspect-ratio * $width;
+  position: relative;
+  width: $game-width;
+  z-index: 10;
+}
+
+.feedback {
+  align-items: center;
+  bottom: $bottom-offset;
+  cursor: pointer;
+  display: flex;
+  flex-flow: row nowrap;
+  left: 1em;
+  position: absolute;
+  transition: trans( 200ms, color, transform );
+
+  &:hover {
+    opacity: 0.75;
+    transform: translateY( -2px );
+  }
+
+  &_icon {
+    fill: firebrick;
+    margin-right: 0.25rem;
+  }
+}
+
+.hints {
+  bottom: $bottom-offset;
+  position: absolute;
+  right: 1em;
+}
+
+.logo {
+  @include center;
+  bottom: $bottom-offset;
+}
+
+.title {
+  @include center;
+  font-size: 2rem;
+  top: -2em;
+  white-space: nowrap;
+}

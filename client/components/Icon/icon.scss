@@ -1,0 +1,24 @@
+@import '../../stylesheets/theme';
+
+.icon {
+  $size: 1.5rem;
+  fill: theme( text );
+  height: $size;
+  stroke: theme( text );
+  width: $size;
+}
+
+.noStroke {
+  stroke: none !important;
+}
+
+.small {
+  $size: 1rem;
+  height: $size;
+  width: $size;
+}
+
+.white {
+  fill: #fff;
+  stroke: #fff;
+}

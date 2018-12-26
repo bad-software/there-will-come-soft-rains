@@ -1,0 +1,6 @@
+@keyframes GradientSlide {
+  from { background-position-x: 0; }
+  to { background-position-x: 300%; }
+}
+
+$anim_gradient-slide: GradientSlide 15s linear infinite;

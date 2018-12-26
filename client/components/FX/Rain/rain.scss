@@ -1,0 +1,62 @@
+.body {
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+
+.drop {
+  $min-duration: 8s;
+  $min-length: 6px;
+  $min-width: 1px;
+
+  position: absolute;
+
+  &__1 {
+    width: $min-width * 2;
+    height: $min-length * 1;
+    background-color: firebrick;
+    animation: rainFall ( $min-duration * 1 ) infinite linear;
+  }
+
+  &__2 {
+    width: $min-width * 2;
+    height: $min-length * 2;
+    background-color: firebrick;
+    animation: rainFall ( $min-duration * 1.5 ) infinite linear;
+  }
+
+  &__3 {
+    width: $min-width * 1;
+    height: $min-length * 2;
+    background-color: #333;
+    animation: rainFall ( $min-duration * 1.5 ) infinite linear;
+  }
+
+  &__4 {
+    width: $min-width * 1;
+    height: $min-length * 2;
+    background-color: #444;
+    animation: rainFall ( $min-duration * 3 ) infinite linear;
+  }
+
+  &__5 {
+    width: $min-width * 2;
+    height: $min-length * 3;
+    background-color: #666;
+    animation: rainFall ( $min-duration * 2 ) infinite linear;
+  }
+}
+
+
+
+@keyframes rainFall {
+  from { transform: translateY( 0 ); }
+  // Create variation in drops by not immediately
+  // recycling when they hit the bottom.
+  to   { transform: translateY( 21000% ); }
+}

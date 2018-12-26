@@ -1,0 +1,11 @@
+@import './media';
+
+
+:export {
+  phoneOnly: $phoneOnly / 1px;
+  tabletPortraitUp: $tabletPortraitUp / 1px;
+  tabletLandscapeUp: $tabletLandscapeUp / 1px;
+  tabletLandscapeDown: $tabletLandscapeDown / 1px;
+  desktopUp: $desktopUp / 1px;
+  bigDesktopUp: $bigDesktopUp / 1px;
+}

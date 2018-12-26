@@ -1,0 +1,18 @@
+@import '../../../../../stylesheets/theme';
+
+
+.body {
+  border-top: 4px solid black;
+  display: flex;
+  flex-flow: column nowrap;
+  padding: 1rem;
+  //height: 33%;
+  text-align: center;
+}
+
+.text {
+  margin-bottom: auto;
+  margin-top: auto;
+  padding: 0 1rem;
+}
+

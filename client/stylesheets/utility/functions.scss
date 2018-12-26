@@ -1,0 +1,87 @@
+//Calculate REM size from pixel value
+@function calculateRem( $size ) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+
+
+// Return a value bound to a minimum and maximum range
+@function clamp( $value: 0, $min: 0, $max: 1 ) {
+  @return min( max( $min, $value ), $max );
+}
+
+
+@function getNestedMapValue( $map, $key1, $key2 ) {
+  // Retrieve value from parent map.
+  $value: map-get( $map, $key1 );
+
+  /*
+   * If value is a nested map, retrieve its value using the provided key.
+   * Otherwise, return this value.
+   */
+  @if ( type-of( $value ) == 'map' ) {
+    @return map-get( $value, $key2 );
+  } @else { @return $value }
+}
+
+
+/*
+ * Make a number even, by flooring it
+ * and either adding or subtracting a value.
+ */
+@function makeEven( $value, $subtract: false ) {
+  // Return if the value is already even.
+  @if ( round( $value ) % 2 == 0 ) { @return $value }
+  @else {
+    @if ( $subtract ) {
+      // Floor the value and subtract one.
+      // @example 3.8 -> 2, 4.2 -> 4
+      @return floor( $value ) - 1
+    } @else {
+      // Floor the value and add one.
+      // @example 3.8 -> 4, 3.2 -> 4
+      @return floor( $value ) + 1
+    }
+  }
+}
+
+
+/*
+ * Slightly darken a color
+ * @access public
+ * @param {Color} $color - color to shade
+ * @param {Number} $percentage - percentage of `$color` in returned color
+ * @return {Color}
+ */
+@function shade( $color, $percentage ) {
+  @return mix( #000, $color, $percentage );
+}
+
+
+/*
+ * Slightly lighten a color
+ * @access public
+ * @param {Color} $color - color to tint
+ * @param {Number} $percentage - percentage of `$color` in returned color
+ * @return {Color}
+ */
+@function tint( $color, $percentage ) {
+  @return mix( #fff, $color, $percentage );
+}
+
+
+// Shorthand for adding multiple transition properties with the same duration.
+@function trans( $duration, $args... ) {
+  // String we will return
+  $str: '';
+
+  // Interleave each property with the transition speed and add to the string
+  @each $arg in $args {
+    $str: '#{$str} #{$arg} #{$duration},'
+  }
+
+  // Remove last comma and unquote.
+  $str: str-slice( unquote( $str ), 1, -1 );
+
+  @return $str;
+}

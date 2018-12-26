@@ -1,0 +1,15 @@
+
+
+.body {
+  &__corner {
+    $margin: 1rem;
+
+    position: absolute;
+    bottom: $margin;
+    left: $margin;
+  }
+}
+
+.bad {
+  color: firebrick;
+}

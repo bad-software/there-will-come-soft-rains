@@ -1,0 +1,22 @@
+@import '../../../stylesheets/theme';
+
+
+.body {
+  align-items: center;
+  background: rgba( theme( background ), 0.7 );
+  display: flex;
+  color: tint( theme( text ), 15% );
+  flex: 1;
+  flex-flow: column nowrap;
+  font-size: 0.875rem;
+  justify-content: center;
+  text-align: center;
+
+  // Stay above rain.
+  z-index: 10;
+
+  // Space out each stanza
+  & > span {
+    margin-bottom: 1rem;
+  }
+}

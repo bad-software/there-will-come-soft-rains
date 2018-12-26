@@ -1,0 +1,29 @@
+@import '../../../../../../../../../stylesheets/theme';
+
+$defaultColor: black;
+
+.body {
+  margin-left: 0.5rem;
+  position: relative;
+  width: 80px;
+  height: 12px;
+}
+
+.bg {
+  --color: $defaultColor;
+
+  background: var( --color );
+  height: 100%;
+  opacity: 0.5;
+  width: 100%;
+}
+
+.fill {
+  --color: $defaultColor;
+
+  background: var( --color );
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+}

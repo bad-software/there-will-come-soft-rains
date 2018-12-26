@@ -1,0 +1,56 @@
+@import '../utility/functions';
+
+//#00a1ff
+
+$colors: (
+  background: (
+    dark: #2f353a,
+    default: shade( ghostwhite, 10% ),
+  ),
+  foreground: (
+    dark: #3a4149,
+    default: ghostwhite,
+  ),
+
+  primary: (
+    default: #000,
+  ),
+
+  text: (
+    // Before you get confused, nomenclature revolves
+    // around theme type, not color luminosity.
+    default: #000,
+    light: #444,
+  ),
+
+  stat: (
+    special: #666,
+    economy: forestgreen,
+    industry: steelblue,
+    progress: mediumpurple,
+    stability: mediumvioletred,
+  ),
+
+  error: firebrick,
+  success: forestgreen,
+);
+
+/*
+ * Get theme color in an idiomatic fashion.
+ * @example theme( primary ) -> $colors.$primary.$default
+ * @return {Color}
+ */
+@function theme( $type: 'primary', $subtype: 'default' ) {
+  // Retrieve value from color map using provided keys.
+  @return getNestedMapValue( $colors, $type, $subtype );
+}
+
+$default-font-size: 16px;
+
+$fullscreen: 100vh;
+$default-transition-speed: 200ms;
+// Give a little breathing space to prevent Chrome bug
+// which partially occludes border at certain sizes.
+$game-width: 800px;
+
+

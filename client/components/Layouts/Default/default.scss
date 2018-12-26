@@ -1,0 +1,11 @@
+
+.body {
+  align-items: center;
+  display: flex;
+  flex-flow: column nowrap;
+  height: 100vh;
+  justify-content: center;
+  // Webkit override to prevent scrollbar from messing with screen width
+  //noinspection CssInvalidPropertyValue
+  overflow-y: overlay;
+}

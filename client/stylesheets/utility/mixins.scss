@@ -1,0 +1,12 @@
+
+@mixin center() {
+  left: 50%;
+  position: absolute;
+  transform: translateX( -50% );
+}
+
+@mixin media ($min-width) {
+  @media only screen and (min-width: #{$min-width}) {
+    @content;
+  }
+}

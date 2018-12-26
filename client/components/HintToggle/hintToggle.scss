@@ -1,0 +1,16 @@
+@import '../../stylesheets/theme';
+
+
+.body {
+  cursor: pointer;
+}
+
+.selected {
+  --color: theme( text );
+  border-bottom: solid 2px var( --color );
+  opacity: 1 !important;
+}
+
+.option {
+  opacity: 0.5;
+}

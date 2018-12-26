@@ -1,0 +1,123 @@
+---
+extends:
+- eslint:recommended
+- plugin:flowtype/recommended
+- plugin:import/errors
+- plugin:import/warnings
+- plugin:jsx-a11y/recommended
+- plugin:promise/recommended
+- plugin:react/recommended
+
+parser: babel-eslint
+parserOptions:
+  ecmaFeatures:
+    jsx: true
+  ecmaVersion: 2018
+
+env:
+  browser: true
+  es6: true
+  node: true
+  mocha: true
+
+plugins:
+- babel
+- flowtype
+- import
+- jsx-a11y
+- promise
+- react
+
+rules:
+  func-names: 0
+  import/no-extraneous-dependencies: 0
+  import/no-named-as-default: 0
+  import/no-unresolved:
+  - error
+  - {}
+
+  indent:
+  - error
+  - 2
+  - SwitchCase: 1
+    ignoredNodes:
+    - ConditionalExpression
+    - TemplateLiteral
+
+  linebreak-style:
+  - error
+  - unix
+
+  max-len:
+  - 1
+  - code: 79
+    comments: 79
+    ignoreUrls: true
+
+  max-statements:
+  - warn
+  - 40
+
+  no-console: 1
+  no-sequences: 2
+  # Make sure that your IDE removes whitespace automatically.
+  no-trailing-spaces: 0
+  no-use-before-define:
+  - 'off'
+  - functions: false
+    classes: false
+
+  quotes:
+  - error
+  - single
+  - allowTemplateLiterals: true
+
+  semi: 0
+  space-in-parens:
+  - 1
+  - always
+  - exceptions:
+    - "{}"
+    - "()"
+    - "[]"
+    - empty
+
+  # Babel
+  babel/new-cap: 1
+  babel/object-curly-spacing:
+  - 0 # Disable until there is a setting for parenthesis
+  - always
+  - arraysInObjects: false
+    objectsInObjects: false
+  babel/no-invalid-this: 0
+  babel/semi:
+  - 1
+  - never
+
+  # JSX
+  react/display-name: 0
+  react/forbid-component-props:
+  - 1
+  - forbid:
+    - className
+    - style
+  react/jsx-boolean-value: 1
+  react/no-array-index-key: 1
+  react/no-unknown-property: 0
+  react/prop-types: 0
+  react/react-in-jsx-scope: 0
+  react/void-dom-elements-no-children: 2
+  jsx-quotes:
+  - error
+  - prefer-double
+
+settings:
+  import/ignore:
+  - node_modules
+
+  import/resolver:
+    webpack:
+      config: config/webpack/devserver.babel.js
+
+  react:
+    pragma: m

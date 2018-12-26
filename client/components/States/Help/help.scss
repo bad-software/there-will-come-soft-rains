@@ -1,0 +1,34 @@
+@import '../../../stylesheets/theme';
+@import '../../../stylesheets/utility/functions';
+
+
+.body {
+  padding: 1.5rem;
+  flex: 1;
+  text-align: center;
+}
+
+.btn {
+  text-transform: uppercase;
+}
+
+.text {
+  margin-bottom: 2rem;
+  text-align: center;
+
+  &_climate { color: theme( stat, special )}
+  &_economy { color: theme( stat, economy )}
+  &_industry { color: theme( stat, industry )}
+  &_progress { color: theme( stat, progress )}
+  &_sacrifice { color: firebrick }
+  &_stability { color: theme( stat, stability )}
+}
+
+.title {
+  $margin: 1.5rem;
+
+  font-size: 2rem;
+  margin-bottom: $margin;
+  margin-top: 0.5rem;
+  text-transform: uppercase;
+}

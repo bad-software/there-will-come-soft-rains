@@ -1,0 +1,16 @@
+@import '../themes/default';
+
+
+//noinspection CssInvalidPseudoSelector,CssUnknownProperty
+:export {
+  // Convert to pixels by multiplying by font size
+
+  primaryDefault: map-get( map-get( $colors, primary ), default );
+  primaryLight: map-get( map-get( $colors, primary ), light );
+  primaryLighter: map-get( map-get( $colors, primary ), lighter );
+  primaryLightest: map-get( map-get( $colors, primary ), lightest );
+  primaryDark: map-get( map-get( $colors, primary ), dark );
+  primaryDarker: map-get( map-get( $colors, primary ), darker );
+  primaryDarkest: map-get( map-get( $colors, primary ), darkest );
+  primaryText: map-get( map-get( $colors, primary ), text );
+}

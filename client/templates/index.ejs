@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><%= htmlWebpackPlugin.options.title %></title>
+</head>
+
+<body>
+<!--
+  Mithril render helper.
+  The root element from which all views created by the router descend.
+
+  We enable aria live at the root to ensure all views are rendered
+  after the live region has been established, and are thus registered as updates.
+
+  By default, live updates only dispatch changed content on a per-character
+  basis, so if a block of content should be reread in its entirety when
+  content changes, apply the `aria-atomic` attribute to that element.
+
+  Similarly, if the update policy needs to be aggressive or ignored for
+  an element an its descendants, append the appropriate `aria-live`
+  attribute to the element.
+-->
+<div id="root" aria-live="polite" aria-label="View"></div>
+
+<% if (htmlWebpackPlugin.options.unsupportedBrowser) { %>
+<style>.unsupported-browser { display: none; }</style>
+<div class="unsupported-browser">
+  Sorry, your browser is not supported.  Please upgrade to
+  the latest version or switch your browser to use this site.
+  See <a href="http://outdatedbrowser.com/">outdatedbrowser.com</a>
+  for options.
+</div>
+<% } %>
+</body>
+</html>

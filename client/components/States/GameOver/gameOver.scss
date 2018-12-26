@@ -1,0 +1,28 @@
+@import '../../../stylesheets/theme';
+
+
+.body {
+  display: flex;
+  flex: 1;
+  position: relative;
+}
+
+.screen {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-flow: column nowrap;
+  justify-content: center;
+  padding: 1rem;
+  position: relative;
+  text-align: center;
+  z-index: 10;
+
+  & button {
+    margin-top: 2rem;
+  }
+}
+
+.tagline {
+  margin-top: 2rem;
+}

@@ -1,0 +1,27 @@
+@import '../../../../../stylesheets/theme';
+
+
+.body {
+  display: flex;
+  flex: 1;
+  flex-flow: row nowrap;
+}
+
+.section {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  padding: 1rem;
+  text-align: center;
+
+  &:first-of-type {
+    border-right: 4px solid black;
+  }
+
+  &:hover {
+    //color: tint( theme( text ), 40% );
+    opacity: 0.55;
+  }
+}

@@ -1,0 +1,16 @@
+@import './default';
+
+//noinspection CssInvalidPseudoSelector,CssUnknownProperty
+:export {
+  // Convert to pixels by multiplying by font size
+
+  background: theme( background );
+  error: theme( error );
+  success: theme( success );
+  gameWidth: $game-width / 1px;
+  statEconomy: theme( stat, economy );
+  statIndustry: theme( stat, industry );
+  statProgress: theme( stat, progress );
+  statStability: theme( stat, stability );
+  text: theme( text );
+}

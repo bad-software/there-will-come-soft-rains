@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg834"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="scratch.svg">
+  <defs
+     id="defs828" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.152273"
+     inkscape:cx="-940.24599"
+     inkscape:cy="285.41603"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg834"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     width="1px"
+     inkscape:window-width="1680"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1386"
+       enabled="true"
+       visible="false"
+       dotted="true" />
+    <sodipodi:guide
+       position="960,640"
+       orientation="1,0"
+       id="guide4540"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="800,650.53824"
+       orientation="1,0"
+       id="guide4542"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1120,1228.3455"
+       orientation="1,0"
+       id="guide4544"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1808.5714,1080"
+       orientation="0,1"
+       id="guide4548"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-2228.3965,0"
+       orientation="0,1"
+       id="guide4550"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,890"
+       orientation="1,0"
+       id="guide4552"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1920,201.42857"
+       orientation="1,0"
+       id="guide4554"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-1680,1175.5203"
+       orientation="1,0"
+       id="guide846"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-1040,-302.08902"
+       orientation="1,0"
+       id="guide848"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-2320,540"
+       orientation="1,0"
+       id="guide868"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-400,254.28571"
+       orientation="1,0"
+       id="guide870"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="100,128.57143"
+       orientation="1,0"
+       id="guide953"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1820,1271.4286"
+       orientation="1,0"
+       id="guide955"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-246.47721,1480"
+       orientation="0,1"
+       id="guide1812"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-189.90867,-400"
+       orientation="0,1"
+       id="guide1814"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-2720,250.75862"
+       orientation="1,0"
+       id="guide1674"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:14.40000057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect4515"
+     width="1920"
+     height="1080"
+     x="0"
+     y="-980" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect4536"
+     width="1904"
+     height="1064"
+     x="8"
+     y="-972" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 960.00002,-859.99997 v 616.57141"
+     id="path4560"
+     inkscape:connector-curvature="0" />
+  <rect
+     y="-258.28571"
+     x="8.0000095"
+     height="358.28571"
+     width="1904"
+     id="rect4558"
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:15.99999905;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-size:53.33333206px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+     x="959.79169"
+     y="-137.63628"
+     id="text4594"><tspan
+       sodipodi:role="line"
+       x="967.23962"
+       y="-137.63628"
+       id="tspan4596"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle">A recent study published in <tspan
+   style="font-style:italic"
+   id="tspan975">Science</tspan> claims that CO2 emissions </tspan><tspan
+       sodipodi:role="line"
+       x="959.79169"
+       y="-77.599533"
+       id="tspan4600"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;text-anchor:middle">are directly involved in rising temperatures</tspan></text>
+  <rect
+     y="-980"
+     x="-2320"
+     height="1080"
+     width="1920"
+     id="rect832"
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:14.40000057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <rect
+     y="-972"
+     x="-2312"
+     height="1064"
+     width="1904"
+     id="rect834"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path836"
+     d="M -1687.9994,-979.99993 V 100.00001"
+     style="fill:none;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M -1031.9995,-979.99993 V 100.00001"
+     id="path850"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     style="font-size:53.33333206px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+     x="-2311.4287"
+     y="-811.42859"
+     id="text854"><tspan
+       sodipodi:role="line"
+       id="tspan852"
+       x="-2311.4287"
+       y="-770.90778" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';letter-spacing:0px;word-spacing:0px"
+     x="-2004.7148"
+     y="-48.98827"
+     id="text858"><tspan
+       sodipodi:role="line"
+       id="tspan856"
+       x="-2004.7148"
+       y="-48.98827"
+       style="text-align:center;text-anchor:middle">USA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="-1360.2745"
+     y="-48.98827"
+     id="text862"><tspan
+       sodipodi:role="line"
+       id="tspan860"
+       x="-1360.2745"
+       y="-48.98827">CHINA</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="-716.71472"
+     y="-48.98827"
+     id="text866"><tspan
+       sodipodi:role="line"
+       id="tspan864"
+       x="-716.71472"
+       y="-48.98827">ROJAVA</tspan></text>
+  <g
+     id="g889"
+     transform="translate(51.428467,81.25708)">
+    <circle
+       r="207.06801"
+       cy="-521.25708"
+       cx="-2055.428"
+       id="path876"
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+       id="circle882"
+       cx="-767.42853"
+       cy="-521.25708"
+       r="207.06801" />
+    <circle
+       r="207.06801"
+       cy="-521.25708"
+       cx="-1411.4283"
+       id="circle884"
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  </g>
+  <g
+     id="g921"
+     transform="translate(1.0050392)">
+    <circle
+       r="36.944035"
+       cy="22.649889"
+       cx="135.939"
+       id="path899"
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+    <g
+       transform="translate(0,-5.9215393)"
+       id="g907">
+      <rect
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+         id="rect901"
+         width="220.00002"
+         height="28.571428"
+         x="205.71428"
+         y="14.285714" />
+      <rect
+         y="14.285714"
+         x="205.71428"
+         height="28.571428"
+         width="129.80002"
+         id="rect903"
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+    </g>
+  </g>
+  <circle
+     r="36.944035"
+     cy="22.649889"
+     cx="601.37091"
+     id="circle923"
+     style="opacity:1;fill:#bd00bd;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <rect
+     y="8.3641748"
+     x="671.14618"
+     height="28.571428"
+     width="220.00002"
+     id="rect925"
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect927"
+     width="80.282394"
+     height="28.571428"
+     x="671.14618"
+     y="8.3641748" />
+  <circle
+     style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="circle933"
+     cx="1065.7979"
+     cy="22.649889"
+     r="36.944035" />
+  <rect
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect935"
+     width="220.00002"
+     height="28.571428"
+     x="1135.5731"
+     y="8.3641748" />
+  <rect
+     y="8.3641748"
+     x="1135.573"
+     height="28.571428"
+     width="172.65715"
+     id="rect937"
+     style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:15.99999905;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <circle
+     r="36.944035"
+     cy="22.649889"
+     cx="1530.2247"
+     id="circle943"
+     style="opacity:1;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <rect
+     y="8.3641748"
+     x="1600"
+     height="28.571428"
+     width="220.00002"
+     id="rect945"
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect947"
+     width="29.800018"
+     height="28.571428"
+     x="1600"
+     y="8.3641748" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="1443.5389"
+     y="-630.12421"
+     id="text979"><tspan
+       sodipodi:role="line"
+       id="tspan977"
+       x="1450.9868"
+       y="-630.12421">Pass legislation to </tspan><tspan
+       sodipodi:role="line"
+       x="1443.5389"
+       y="-571.45752"
+       id="tspan981">reduce carbon emissions</tspan></text>
+  <text
+     id="text991"
+     y="-630.12421"
+     x="475.53888"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     xml:space="preserve"><tspan
+       y="-630.12421"
+       x="475.53888"
+       sodipodi:role="line"
+       id="tspan997">Fund a new study with</tspan><tspan
+       y="-571.45752"
+       x="475.53888"
+       sodipodi:role="line"
+       id="tspan1001">more favorable results</tspan><tspan
+       y="-512.79089"
+       x="475.53888"
+       sodipodi:role="line"
+       id="tspan995" /></text>
+  <g
+     id="g1962"
+     transform="translate(51.428467)">
+    <rect
+       y="-2460"
+       x="-2371.4285"
+       height="1080"
+       width="1920"
+       id="rect1670"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:14.40000057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+    <rect
+       y="-2452"
+       x="-2363.4285"
+       height="1064"
+       width="1904"
+       id="rect1672"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  </g>
+  <g
+     id="g1732"
+     transform="translate(-67.864343,471.6148)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';letter-spacing:0px;word-spacing:0px"
+       x="-1411.1155"
+       y="-2772.8738"
+       id="text1722"><tspan
+         sodipodi:role="line"
+         id="tspan1720"
+         x="-1411.1155"
+         y="-2772.8738"
+         style="text-align:center;text-anchor:middle">THERE WILL COME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';letter-spacing:0px;word-spacing:0px"
+       x="-1279.788"
+       y="-2639.5337"
+       id="text1726"><tspan
+         sodipodi:role="line"
+         id="tspan1724"
+         x="-1279.788"
+         y="-2639.5337"
+         style="font-size:128px;text-align:center;text-anchor:middle">SOFT RAINS</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m -2163.2928,-2248.4164 164.2669,357.3327"
+     id="path1742"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1744"
+     d="m -1514.3741,-2077.2217 246.4295,533.2935"
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m -986.34163,-1982.573 118.93582,260.2508"
+     id="path1746"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1748"
+     d="m -1991.3972,-2420.1595 274.7615,593.9697"
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:7.99999952;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m -834.08482,-2331.7024 314.89138,679.9126"
+     id="path1750"
+     inkscape:connector-curvature="0" />
+  <rect
+     y="-1811.6072"
+     x="-1628.5714"
+     height="188.9286"
+     width="537.14288"
+     id="rect1752"
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="-1360.3088"
+     y="-1695.5828"
+     id="text1756"><tspan
+       sodipodi:role="line"
+       id="tspan1754"
+       x="-1360.3088"
+       y="-1695.5828">START</tspan></text>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m -2148.6768,-1831.4766 109.645,240.5602"
+     id="path1758"
+     inkscape:connector-curvature="0" />
+  <rect
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect1760"
+     width="1008.254"
+     height="177.14288"
+     x="-1864.1271"
+     y="-917.14282" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="-1359.5394"
+     y="-807.04065"
+     id="text1764"><tspan
+       sodipodi:role="line"
+       id="tspan1762"
+       x="-1359.5394"
+       y="-807.04065">SELECT A REGION</tspan></text>
+  <rect
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:14.40000057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect1774"
+     width="1920"
+     height="1080"
+     x="-2320"
+     y="499.99994" />
+  <rect
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect1776"
+     width="1904"
+     height="1064"
+     x="-2312"
+     y="507.99994" />
+  <text
+     id="text1784"
+     y="681.28064"
+     x="-1362.1245"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:109.02204132px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';letter-spacing:0px;word-spacing:0px;stroke-width:1"
+     xml:space="preserve"><tspan
+       style="text-align:center;text-anchor:middle;stroke-width:1"
+       y="681.28064"
+       x="-1362.1245"
+       id="tspan1782"
+       sodipodi:role="line">The United States of America</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d"
+     x="-1359.9817"
+     y="802.89795"
+     id="text1831"><tspan
+       sodipodi:role="line"
+       id="tspan1829"
+       x="-1352.5338"
+       y="802.89795">The United States is a federal presidential </tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="861.56464"
+       id="tspan1839">constitutional republic. As president, you have</tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="920.23126"
+       id="tspan1845">a limited authority, which you share with Congress.</tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="978.89795"
+       id="tspan1849" /><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="1037.5646"
+       id="tspan1855">If your decisions are putting the country at risk,</tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="1096.2313"
+       id="tspan1857">Congress might start making their own choices.</tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="1154.8979"
+       id="tspan1859" /><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="1213.5646"
+       id="tspan1861">As a democratic nation, your citizens are generally</tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="1272.2313"
+       id="tspan1863">less prone to unrest. However, you don't have as much</tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="1330.8979"
+       id="tspan1869">discretionary funds at your disposal.</tspan><tspan
+       sodipodi:role="line"
+       x="-1359.9817"
+       y="1389.5646"
+       id="tspan1853" /></text>
+  <g
+     id="g1907"
+     transform="translate(-85.714325)">
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:14.40000057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+       id="rect1871"
+       width="1920"
+       height="1080"
+       x="85.714325"
+       y="-2460" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+       id="rect1873"
+       width="1904"
+       height="1064"
+       x="93.714325"
+       y="-2452" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.73623657px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:1"
+     x="958.64154"
+     y="-2282.5288"
+     id="text1911"><tspan
+       sodipodi:role="line"
+       id="tspan1909"
+       x="958.64154"
+       y="-2282.5288"
+       style="stroke-width:1">HOW TO PLAY</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a"
+     x="-1001.5741"
+     y="1477.4299"
+     id="text1929"><tspan
+       sodipodi:role="line"
+       id="tspan1927"
+       x="-1001.5741"
+       y="1477.4299">SOUNDS COOL</tspan></text>
+  <text
+     id="text1933"
+     y="1477.4299"
+     x="-1711.149"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1a1a1a"
+     xml:space="preserve"><tspan
+       y="1477.4299"
+       x="-1711.149"
+       id="tspan1931"
+       sodipodi:role="line">MAYBE NOT</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="960"
+     y="-2168.5713"
+     id="text1949"><tspan
+       sodipodi:role="line"
+       x="960"
+       y="-2168.5713"
+       style="fill:#333333"
+       id="tspan1485">So it turns out those <tspan
+   style="fill:#666666"
+   id="tspan1597">climate change</tspan> guys were right.</tspan><tspan
+       sodipodi:role="line"
+       x="960"
+       y="-2109.9045"
+       style="fill:#333333"
+       id="tspan1487" /><tspan
+       sodipodi:role="line"
+       x="960"
+       y="-2051.238"
+       style="fill:#333333"
+       id="tspan1489">Darn it.</tspan><tspan
+       sodipodi:role="line"
+       x="960"
+       y="-1992.5713"
+       style="fill:#333333"
+       id="tspan1491" /><tspan
+       sodipodi:role="line"
+       x="967.44794"
+       y="-1933.9047"
+       style="fill:#333333"
+       id="tspan1495">Choose a region and try everything you can to keep it </tspan><tspan
+       sodipodi:role="line"
+       x="967.44788"
+       y="-1875.2379"
+       style="fill:#333333"
+       id="tspan1497">together despite overwhelming odds. You will have to </tspan><tspan
+       sodipodi:role="line"
+       x="967.448"
+       y="-1816.5713"
+       style="fill:#333333"
+       id="tspan1499">manage your <tspan
+   style="fill:#008000"
+   id="tspan1531">economy</tspan>,  <tspan
+   style="fill:#bd00bd;fill-opacity:1"
+   id="tspan1537">social stability</tspan> &amp; <tspan
+   style="fill:#008080"
+   id="tspan1547">industrial sector</tspan> </tspan><tspan
+       sodipodi:role="line"
+       x="967.44794"
+       y="-1757.9047"
+       style="fill:#333333"
+       id="tspan1501">while making as much progress as you can towards </tspan><tspan
+       sodipodi:role="line"
+       x="960"
+       y="-1699.2379"
+       style="fill:#333333"
+       id="tspan1529"><tspan
+   style="fill:#ff6600;fill-opacity:1"
+   id="tspan1583">environmental reform</tspan>.</tspan><tspan
+       sodipodi:role="line"
+       x="960"
+       y="-1640.5713"
+       style="fill:#333333"
+       id="tspan1503" /><tspan
+       sodipodi:role="line"
+       x="960"
+       y="-1581.9047"
+       style="fill:#333333"
+       id="tspan1505">It won't be easy, and sacrifices must be made.</tspan></text>
+  <rect
+     style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1"
+     id="rect1964"
+     width="484.61496"
+     height="116.19762"
+     x="-1602.3075"
+     y="-1582.428" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="-1360.7466"
+     y="-1502.8572"
+     id="text1958"><tspan
+       sodipodi:role="line"
+       id="tspan1956"
+       x="-1360.7466"
+       y="-1502.8572">HOW TO PLAY</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:53.33333206px;line-height:1;font-family:sans-serif;letter-spacing:0px;word-spacing:0px"
+     x="880.85303"
+     y="-1471.7974"
+     id="text1604"><tspan
+       sodipodi:role="line"
+       id="tspan1602"
+       x="880.85303"
+       y="-1431.2765" /></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="959.98029"
+     y="-1463.7162"
+     id="text1608"><tspan
+       sodipodi:role="line"
+       id="tspan1606"
+       x="959.98029"
+       y="-1463.7162"
+       style="fill:#1a1a1a">OH SHIT. OK.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#666666"
+     x="960"
+     y="-889.15808"
+     id="text1614"><tspan
+       sodipodi:role="line"
+       id="tspan1612"
+       x="960"
+       y="-889.15808">+1º C</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333"
+     x="94.285721"
+     y="-889.15808"
+     id="text1618"><tspan
+       sodipodi:role="line"
+       id="tspan1616"
+       x="94.285721"
+       y="-889.15808"
+       style="fill:#333333">USA</tspan></text>
+  <text
+     id="text1622"
+     y="-889.15808"
+     x="1794.3724"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#b3b3b3;"
+     xml:space="preserve"><tspan
+       style="fill:#b3b3b3;"
+       y="-889.15808"
+       x="1794.3724"
+       id="tspan1620"
+       sodipodi:role="line">MENU</tspan></text>
+  <g
+     transform="translate(-2268.5715,1480)"
+     id="g1680">
+    <rect
+       y="-2460"
+       x="-2371.4285"
+       height="1080"
+       width="1920"
+       id="rect1676"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:14.40000057;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+    <rect
+       y="-2452"
+       x="-2363.4285"
+       height="1064"
+       width="1904"
+       id="rect1678"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:16;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:67.03072357;stroke-opacity:1" />
+  </g>
+  <text
+     id="text1690"
+     y="-505.64795"
+     x="-3680.0217"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     xml:space="preserve"><tspan
+       style="fill:#4d4d4d"
+       y="-505.64795"
+       x="-3680.0217"
+       id="tspan1682"
+       sodipodi:role="line">&quot;Not one would mind, neither bird nor tree</tspan><tspan
+       style="fill:#4d4d4d"
+       id="tspan1684"
+       y="-446.98129"
+       x="-3680.0217"
+       sodipodi:role="line">If mankind perished utterly&quot;</tspan><tspan
+       id="tspan1686"
+       y="-388.31461"
+       x="-3680.0217"
+       sodipodi:role="line" /><tspan
+       style="fill:#666666"
+       id="tspan1688"
+       y="-329.64795"
+       x="-3680.0217"
+       sodipodi:role="line">–  Sara Teasdale</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.66666794px;line-height:1;font-family:'Fredoka One';-inkscape-font-specification:'Fredoka One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle"
+     x="-2034.5958"
+     y="-1428.3467"
+     id="text1694-3"><tspan
+       sodipodi:role="line"
+       id="tspan1692-6"
+       x="-2034.5958"
+       y="-1428.3467"><tspan
+   style="fill:#ff0000"
+   id="tspan1696-7">BAD</tspan> SOFTWARE</tspan></text>
+</svg>

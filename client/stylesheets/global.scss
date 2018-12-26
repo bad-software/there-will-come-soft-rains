@@ -1,0 +1,29 @@
+@import 'theme';
+
+
+//noinspection CssOverwrittenProperties
+.focus {
+  $color: invert( theme( text ));
+  outline-width: 2px;
+  // Fallback
+  outline-style: solid;
+  outline-color: Highlight;
+  outline-color: -webkit-focus-ring-color;
+  outline-style: auto;
+}
+
+.line {
+  display: inline-block;
+  white-space: pre;
+}
+
+.small {
+  font-size: 0.5rem;
+}
+
+.climate { color: theme( stat, special )}
+.economy { color: theme( stat, economy )}
+.industry { color: theme( stat, industry )}
+.progress { color: theme( stat, progress )}
+.sacrifice { color: firebrick }
+.stability { color: theme( stat, stability )}

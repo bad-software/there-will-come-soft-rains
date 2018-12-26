@@ -1,0 +1,119 @@
+@import '../../../stylesheets/theme';
+@import '../../../stylesheets/utility/functions';
+
+
+.body {
+  display: flex;
+  flex-flow: row nowrap;
+  height: 100%;
+  position: relative;
+}
+
+.info {
+  padding: 1rem;
+  position: relative;
+  text-align: center;
+
+  &_btn {
+    text-transform: uppercase;
+
+    &:first-of-type { margin-right: 4rem }
+
+    &_container {
+      // Centered, anchored to bottom with centered children.
+
+      bottom: 2rem;
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: center;
+      left: 50%;
+      position: absolute;
+      transform: translateX( -50% );
+      width: 100%;
+    }
+  }
+
+  &_title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+  }
+
+  &_txt {
+    margin-bottom: 2rem;
+
+    &_economy {
+      color: theme( stat, economy );
+    }
+
+    &_industry {
+      color: theme( stat, industry );
+    }
+
+    &_progress {
+      color: theme( stat, progress );
+    }
+
+    &_special {
+      color: theme( stat, special );
+    }
+
+    &_stability {
+      color: theme( stat, stability );
+    }
+  }
+}
+
+.region {
+  $transition-speed: 200ms;
+
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  flex-flow: column nowrap;
+  position: relative;
+  user-select: none;
+
+  &:hover {
+    & > .region_map {
+      fill: #bbb;
+      transform: translateY( -10px );
+    }
+
+    & > .region_title {
+      color: tint( theme( text ), 33% );
+    }
+  }
+
+  &_map {
+    fill: #666;
+    stroke: #000;
+    stroke-width: 2px;
+    margin-top: auto;
+    margin-bottom: auto;
+    //height: 16rem;
+    width: 80%;
+    transition: trans( $transition-speed, fill, transform );
+  }
+
+  &_title {
+    bottom: 2rem;
+    color: tint( theme( text ), 15% );
+    font-size: 2rem;
+    position: absolute;
+    transition: $transition-speed color;
+  }
+}
+
+.title {
+  // Absolute centered
+  background: theme( background );
+  border: solid 4px black;
+  left: 50%;
+  padding: 1rem 2rem;
+  position: absolute;
+  top: 1rem;
+  transform: translateX( -50% );
+  z-index: 10;
+}

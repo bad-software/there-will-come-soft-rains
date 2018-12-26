@@ -1,0 +1,55 @@
+@import '../../../../../stylesheets/theme';
+@import '../../../../../stylesheets/utility/functions';
+@import '../../../../../stylesheets/utility/mixins';
+
+.body {
+  display: flex;
+  flex-flow: row nowrap;
+  position: relative;
+}
+
+.item {
+  color: tint( theme( text ), 33% );
+  font-size: 1.25rem;
+  padding: 1rem;
+}
+
+.menu {
+  $color: tint( theme( text ), 60% );
+
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  text-transform: uppercase;
+  transition: background 200ms;
+
+  &:hover {
+    background: $color;
+  }
+
+  &_icon {
+    $size: 1.5rem;
+
+    fill: $color;
+    height: $size;
+    stroke: none;
+    transition: fill 200ms;
+    width: $size;
+
+    .menu:hover & {
+      fill: theme( background );
+    }
+  }
+}
+
+.temperature {
+  @include center;
+
+  color: theme( stat, special );
+  left: 50%;
+  position: absolute;
+  top: 0;
+  transform: translateX( -50% );
+}
