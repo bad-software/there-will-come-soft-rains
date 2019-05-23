@@ -111,5 +111,6 @@ $RECYCLE.BIN/
 flow-typed/
 
 ### Project ###
-data/
+/data/
+/public/
 /TODO

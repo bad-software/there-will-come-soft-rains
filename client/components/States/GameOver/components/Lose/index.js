@@ -4,6 +4,7 @@ import { oneLine } from 'common-tags'
 import { Game } from 'Models/Game'
 //import { hooks } from './hooks'
 import style from '../../gameOver.scss'
+import { Icon } from 'Components/Icon'
 
 
 export function Lose() {
@@ -70,6 +71,7 @@ export function Lose() {
           </button>
 
           <button key="rate" onclick={ Game.ctrl.reviewGame }>
+            <Icon name="action.favorite" class={ style.feedbackIcon }/>
             Tell me what you think
           </button>
         </div>

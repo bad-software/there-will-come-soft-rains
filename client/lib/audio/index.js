@@ -34,8 +34,8 @@ function sound( src ) {
   const s = {}
   s.sound = document.createElement( 'audio' )
   // Sigh... this is so dirty.
-  //s.sound.src = `https://bl.ocks.org/bad-software/raw/3796f32ec43802b2184d35d4dcf434b7${ src }`
-  s.sound.src = src
+  s.sound.src = `https://bl.ocks.org/bad-software/raw/108fdfa863990cd293a1ed0ce8e72c17${ src }`
+  //s.sound.src = src
   s.sound.setAttribute( 'preload', 'auto' )
   s.sound.setAttribute( 'controls', 'none' )
 
@@ -64,7 +64,7 @@ function sound( src ) {
 
 function mix() {
   music.main.sound.volume = 0.3
-  music.rain.sound.volume = 0.45
+  music.rain.sound.volume = 0.4
   music.nature.sound.volume = 0.2
 
   sounds.coin.sound.volume = 0.5

@@ -361,20 +361,5 @@ export const common = [
         affordable renewable alternatives.`,
       stats: { economy: 10, stability: -10, progress: 10 }
     }
-  }]
-
-
-/*
-export const usa = [
-  [
-    oneLine`
-      
-    `,
-    [ oneLine`
-
-    `, {  }],
-    [ oneLine`
-
-    `, {  }]],
+  },
 ]
-*/

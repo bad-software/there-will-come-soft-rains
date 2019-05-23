@@ -1,7 +1,6 @@
 import m from 'mithril'
 import { stopAudio, waitForBuffers } from 'Lib/audio'
 import theme from 'Theme'
-import { Game } from 'Models/Game/index'
 
 export * from './choices'
 export * from './stats'

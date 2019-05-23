@@ -14,9 +14,9 @@ export function Menu() {
     view() {
       return (
         <div class={ style.body }>
-          <div class={ style.title }>
+          {/*<div class={ style.title }>
             There Will Come Soft Rains
-          </div>
+          </div>*/}
           <button
             class={ style.btn }
             onclick={ Game.ctrl.toggleMenu }
