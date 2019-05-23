@@ -7,7 +7,7 @@
 
 This is a small game about climate change and making sacrifices.
 
-[Click here to play](https://tinyurl.com/43softrains).
+[Click here to play](https://tinyurl.com/43softrains-v1-1).
 
 
 ## Prerequisites
