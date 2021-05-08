@@ -56,7 +56,7 @@
     "feathers-nedb": "^4.0.0",
     "feathers-reactive": "^0.7.2",
     "helmet": "^3.13.0",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "mithril": "^2.0.0-rc.1",
     "nedb": "^1.8.0",
     "socket.io-client": "^2.1.1",
